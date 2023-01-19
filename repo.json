@@ -1,0 +1,35 @@
+{
+	"META": {
+		"repoName": "Mvl iOS - By iTacoCatSupreme",
+		"repoIcon": "https://usescarlet.com/favicon.png"
+	},
+	"Emulators": [{
+		"name": "Mvl - No UI Controlls",
+		"version": "2",
+		"icon": "https://cdn.discordapp.com/attachments/1060723950038040658/1063229719266463835/6bfee268bab11579d9931235961487cf-2.png",
+		"down": "https://github.com/Tacocat-Developers/NSMB-MarioVsLuigi-IOS/releases/download/v0.5.0-iOS/NSMB-MarioVsLuigiCONTROLLER.ipa",
+		"category": "Emulators",
+		"description": ""
+	}, {
+		"name": "Mvl - UI No Home Button",
+		"version": "2",
+		"icon": "https://cdn.discordapp.com/attachments/1060723950038040658/1063229719266463835/6bfee268bab11579d9931235961487cf-2.png",
+		"down": "https://github.com/Tacocat-Developers/NSMB-MarioVsLuigi-IOS/releases/download/v0.5.0-iOS/NSMB-MarioVsLuigiTouchControls.ipa",
+		"category": "Emulators",
+		"description": "A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS"
+	}, {
+		"name": "Mvl - UI Home Button",			
+		"version": "2",
+		"icon": "https://cdn.discordapp.com/attachments/1060723950038040658/1063229719266463835/6bfee268bab11579d9931235961487cf-2.png",
+		"down": "https://github.com/Tacocat-Developers/NSMB-MarioVsLuigi-IOS/releases/download/v0.5.0-iOS/NSMB-MarioVsLuigiTouchControls.ipa",
+		"category": "Emulators",		
+		"description": "A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS"
+	}, {
+		"name": "Mvl - UI Home Button",			
+		"version": "2",
+		"icon": "https://cdn.discordapp.com/attachments/1060723950038040658/1063229719266463835/6bfee268bab11579d9931235961487cf-2.png",
+		"down": "https://github.com/Tacocat-Developers/NSMB-MarioVsLuigi-IOS/releases/download/v0.5.0-iOS/NSMB-MarioVsLuigiTouchControls.ipa",
+		"category": "Emulators",		
+		"description": "A unity-standalone 2-10 player remake of the Mario vs. Luigi gamemode from the New Super Mario Bros DS"
+	}]
+}
